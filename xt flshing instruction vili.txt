@@ -1,0 +1,11 @@
+Flashing Instructions:
+-  Boot Into Custom Recovery ( Twrp Recommended )
+- Wipe ( Format Data ) Type yes
+- Flash It Via Twrp Or adb sideload romname.zip 
+- Flash Recovery again else you will loss Recovery you are using.
+- Boot into recovery after flashing rom and recovery.
+- Reboot to System
+
+*Optional On Vanilla Builds:
+-After Flashing Reboot To Recovery
+- Flash It Via Twrp Or adb sideload GApps.zip
